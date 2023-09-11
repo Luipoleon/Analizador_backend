@@ -1,0 +1,5 @@
+function isNegative(a,b)
+{
+  number = a - b
+  return number < 0;
+}

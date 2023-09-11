@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\analizador\analizador\bin\Debug\net6.0\analizador.exe
+C:\Users\Admin\source\repos\analizador\analizador\bin\Debug\net6.0\analizador.deps.json
+C:\Users\Admin\source\repos\analizador\analizador\bin\Debug\net6.0\analizador.runtimeconfig.json
+C:\Users\Admin\source\repos\analizador\analizador\bin\Debug\net6.0\analizador.dll
+C:\Users\Admin\source\repos\analizador\analizador\bin\Debug\net6.0\analizador.pdb
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.AssemblyInfo.cs
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.dll
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\refint\analizador.dll
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.pdb
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\analizador.genruntimeconfig.cache
+C:\Users\Admin\source\repos\analizador\analizador\obj\Debug\net6.0\ref\analizador.dll
