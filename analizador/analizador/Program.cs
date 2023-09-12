@@ -138,26 +138,25 @@ namespace analizador
                         {
                             token.Lexema += input[i];
                             i++;
-                            if (input[i].Equals('\0'))
-                            {
-                                token.Valor = 0;
-
-                            }
-                            else
+                            if (char.IsDigit(input[i]))
                             {
                                 while (char.IsDigit(input[i]))
                                 {
                                     token.Lexema += input[i];
                                     i++;
                                 }
+
                                 // Número decimal
                                 token.Valor = (int)TokenType.DECIMAL;
-
-
+                            }
+                            else
+                            {
+                                token.Valor = 0;
                             }
 
-
                         }
+                      
+
                         //Regresar a posición
                         i--;
 

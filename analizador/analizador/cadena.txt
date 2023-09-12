@@ -1,5 +1,1 @@
-function isNegative(a,b)
-{
-  number = a - b
-  return number < 0;
-}
+3.34 a + 3 // 6
